@@ -1,34 +1,29 @@
-# Olá, eu sou a Rayane Araújo Teles
+# Rayane Araújo
 
-Estudante de **Engenharia de Software na ULBRA** e **Líder Estudantil AWS Campus Builder**. Estou construindo meu portfólio por meio de projetos práticos, trabalho em equipe e aprendizado contínuo.
+Estudante de **Engenharia de Software na ULBRA** e **Líder Estudantil AWS Campus Builder**.
 
-Exploro desenvolvimento web, mobile, back-end, dados, automação e computação em nuvem para conhecer diferentes caminhos da Engenharia de Software.
+Construo projetos para explorar desenvolvimento web, mobile, back-end, dados e computação em nuvem. Aqui compartilho minha trajetória e o que aprendo em cada entrega.
 
-## Em desenvolvimento
+## Projetos acadêmicos
 
-### [Maridão](https://github.com/rayanearaujoteles8/Maridao)
-Aplicativo acadêmico desenvolvido em equipe para conectar clientes e prestadores de serviços em Palmas–TO.
+- [Maridão](https://github.com/rayanearaujoteles8/Maridao): aplicativo em desenvolvimento, construído em equipe para conectar clientes e prestadores de serviços em Palmas–TO. React Native, Expo, TypeScript, Node.js, Express e PostgreSQL.
+- [Projeto G2 — Front-end](https://github.com/rayanearaujoteles8/projeto-g2-frontend): participação em projeto acadêmico de equipe com Svelte. O repositório é um fork, com origem e contribuições identificadas no GitHub.
 
-- **Tecnologias do projeto:** React Native, Expo, TypeScript, Node.js, Express e PostgreSQL.
-- **Trabalho em andamento:** interfaces, API, requisitos, testes e organização das entregas.
-- **Organização:** [quadro de desenvolvimento](https://github.com/users/rayanearaujoteles8/projects/1) — o acesso depende das permissões do projeto.
-- **Estado:** em desenvolvimento; funcionalidades e limitações estão documentadas no repositório.
+## Portfólio em construção
 
-### [Projeto G2 — Front-end](https://github.com/rayanearaujoteles8/projeto-g2-frontend)
-Participação em projeto acadêmico de equipe com Svelte. O repositório no meu perfil é um fork; a origem e as contribuições permanecem identificadas no GitHub.
+Os projetos abaixo estão em planejamento. O estágio será atualizado conforme houver entregas verificadas.
 
-## Próximos projetos do portfólio
-
-Trilha inicial de exploração; projetos planejados não são apresentados como entregues.
-
-| Projeto | O que pretendo explorar | Etapa |
+| Projeto | Proposta | Etapa |
 | --- | --- | --- |
-| Estudo em Dia | Aplicação web para organizar tarefas e prazos de estudo; evoluir da interface para API e banco de dados | Planejamento |
-| Dados em Foco | Análise de dados públicos, limpeza, gráficos e explicação dos resultados com Python | Ideia inicial |
-| Laboratório Cloud | Publicação de uma pequena aplicação, configuração, monitoramento e documentação de custos e segurança | Ideia inicial |
+| Entrelinhas | Biblioteca pessoal, sessões de leitura e memórias literárias, com identidade visual mágica | Planejamento e conceito visual aprovado |
+| Bastidores | Planejamento e operação de eventos: equipe, orçamento, fornecedores e modo Dia do evento | Planejamento |
+| DinDim | Organização financeira com dashboards e chat para registrar lançamentos mediante confirmação | Planejamento |
+| Marcaí | Agendamento para pequenos negócios de beleza, com disponibilidade por profissional e prevenção de conflitos | Planejamento |
 
-## Como quero apresentar cada entrega
+## Notas da Ray
 
-Problema, funcionalidades demonstráveis, instruções para executar, imagens ou demonstração, testes e próximos passos. Nos projetos em equipe, registrar minha participação e os créditos do grupo.
+Meu futuro mini blog fará parte do site pessoal **Rayane Araújo**, reunindo trajetória, projetos, aprendizados e contato. Os textos serão revisados antes da publicação.
 
-Este perfil acompanha minha evolução: as tecnologias listadas estão ligadas aos projetos, sem representar certificações ou domínio de todas as áreas.
+## Como desenvolvo
+
+Entregas pequenas, decisões técnicas documentadas e testes dos fluxos. Cada projeto terá instruções para executar, demonstrações, limitações e próximos passos. Nos trabalhos em equipe, os créditos e minha participação serão identificados.
